@@ -26,7 +26,7 @@ public class diskon {
         hargaAkhir = getHargaAkhir(hargaAwal, diskon);
 
         System.out.printf("Harga sebelum diskon: "+hargaAwal);
-        System.out.printf("\nDiskon: "+git diskon);
+        System.out.printf("\nDiskon: "+diskon);
 
         System.out.printf("\nHarga setelah di diskon: "+hargaAkhir);
     }
